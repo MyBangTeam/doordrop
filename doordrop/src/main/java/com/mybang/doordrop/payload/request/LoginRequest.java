@@ -1,4 +1,4 @@
-package com.mbang.doordrop.payload.request;
+package com.mybang.doordrop.payload.request;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.Getter;

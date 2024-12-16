@@ -1,4 +1,4 @@
-package com.mbang.doordrop.payload.response;
+package com.mybang.doordrop.payload.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
